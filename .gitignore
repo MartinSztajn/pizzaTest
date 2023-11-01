@@ -1,0 +1,7 @@
+#create Db
+Name: pizza
+
+#run
+npm artisan migrate
+npm run dev
+
